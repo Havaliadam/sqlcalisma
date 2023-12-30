@@ -1,0 +1,1 @@
+select* from Customer1 where city='nantes'

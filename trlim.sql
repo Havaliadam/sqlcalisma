@@ -1,0 +1,19 @@
+--TRIM LTRTIM RTRIM 
+
+
+/*
+SELECT TRIM(' ayhan çelik ')
+
+SELECT LTRIM(' ayhan çelik ')
+
+SELECT RTRIM(' ayhan çelik ')
+*/
+
+--LOWER UPPER REVERSE REPLICATE
+
+
+SELECT LOWER ('AYHAN')
+SELECT UPPER ('ayhan')
+select REVERSE('AYHAN ÇELÝK')
+
+SELECT REPLICATE('0',10)
